@@ -1,0 +1,32 @@
+body{
+    background-color:white;
+}
+h1{
+    text-align: center;
+    background-color: blanchedalmond;
+
+}
+p{
+    text-decoration-color: azure;
+    text-align: center;
+
+}
+h3{
+    text-align: center;
+
+}
+li{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+button{
+    background-color: blue;
+    text-align: center;
+}
+h{
+    background-color: blanchedalmond;
+    background-image: -moz-linear-gradient();
+}
+img{
+    background-position: 0cqmax;
+}
